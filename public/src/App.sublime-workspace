@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 239.0,
+		"last_filter": "Package Controlin",
+		"selected_items":
+		[
+			[
+				"Package Controlin",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Vue ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lazarostotsas/Documents/WorkToFind/public/src/main.js",
+		"/Users/lazarostotsas/Documents/WorkToFind/public/src/App.vue",
+		"/Users/lazarostotsas/Documents/WorkToFind/public/webpack.config.js",
+		"/Users/lazarostotsas/Downloads/vue-paper-dashboard-master/src/main.js",
+		"/Users/lazarostotsas/Downloads/vue-paper-dashboard-master/src/gloablComponents.js",
+		"/Users/lazarostotsas/Desktop/vacancies/assets/css/dh-row-text-image-right-responsive.css",
+		"/Users/lazarostotsas/Desktop/vacancies/index.html",
+		"/Applications/MAMP/htdocs/ecobotix/assets/css/styles.css",
+		"/Applications/MAMP/htdocs/admin/application/modules/admin/views/util/list_db.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/admin/views/_partials/sidemenu_search.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/admin/views/_layouts/default.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/admin/views/login.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/admin/views/home.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/admin/views/general.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/adminlte/controllers/Widget.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/api/views/home.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/api/swagger/info.php",
+		"/Applications/MAMP/htdocs/admin/application/modules/api/swagger/tags.php",
+		"/Applications/MAMP/htdocs/admin/application/views/email/general.php",
+		"/Applications/MAMP/htdocs/admin/application/views/email/_footer.php",
+		"/Applications/MAMP/htdocs/admin/application/views/email/_header.php",
+		"/Applications/MAMP/htdocs/admin/application/views/home.php",
+		"/Applications/MAMP/htdocs/admin/application/views/_partials/ga.php",
+		"/Applications/MAMP/htdocs/admin/application/libraries/MY_Form_validation.php",
+		"/Applications/MAMP/htdocs/admin/application/libraries/MY_Email.php",
+		"/Applications/MAMP/htdocs/admin/application/libraries/Form_builder.php",
+		"/Applications/MAMP/htdocs/admin/application/libraries/Data_importer.php",
+		"/Applications/MAMP/htdocs/admin/application/controllers/Home.php",
+		"/Applications/MAMP/htdocs/admin/application/controllers/Cli.php",
+		"/Applications/MAMP/htdocs/admin/index.php",
+		"/Applications/MAMP/htdocs/admin/application/config/routes.php",
+		"/Users/lazarostotsas/Desktop/New site/js/blocs.min.js",
+		"/Applications/MAMP/bin/php/php7.0.22/conf/php.ini",
+		"/Applications/MAMP/htdocs/admin/application/config/database.php",
+		"/Applications/MAMP/htdocs/test/phpstorm.php",
+		"/Applications/MAMP/htdocs/test/.htaccess",
+		"/Applications/MAMP/htdocs/back/application/pages/default/LoginPage.php",
+		"/Applications/MAMP/htdocs/back/application/controllers/Handler.php",
+		"/Applications/MAMP/htdocs/back/application/helpers/tables_helper.php",
+		"/Applications/MAMP/htdocs/back/application/helpers/mdbt_model_helper.php",
+		"/Applications/MAMP/htdocs/back/application/helpers/mdbt_form_helper.php",
+		"/Applications/MAMP/htdocs/back/application/helpers/login_state_helper.php",
+		"/Applications/MAMP/htdocs/back/resources/js/npm.js",
+		"/Applications/MAMP/htdocs/lisa/application/models/Login.php",
+		"/Applications/MAMP/htdocs/lisa/application/models/ModelFrame.php",
+		"/Applications/MAMP/htdocs/lisa/application/controllers/Page.php",
+		"/Applications/MAMP/htdocs/lisa/application/controllers/Handler.php",
+		"/Applications/MAMP/htdocs/lisa/application/controllers/Install.php",
+		"/Applications/MAMP/htdocs/lisa/application/config/database.php",
+		"/Applications/MAMP/htdocs/back/application/pages/ApiFrame.php",
+		"/Applications/MAMP/htdocs/back/application/models/User.php",
+		"/Applications/MAMP/htdocs/back/application/models/Login.php",
+		"/Applications/MAMP/htdocs/back/application/controllers/Install.php",
+		"/Applications/MAMP/htdocs/back/application/models/Login_User.php",
+		"/Applications/MAMP/htdocs/back/application/models/ModelFrame.php",
+		"/Applications/MAMP/htdocs/back/application/config/database.php",
+		"/Applications/MAMP/htdocs/back/application/config/config.php",
+		"/Applications/MAMP/htdocs/back/README.md",
+		"/Applications/MAMP/htdocs/crm/readme.rst",
+		"/Applications/MAMP/htdocs/crm/application/config/database.php",
+		"/Users/lazarostotsas/Downloads/themeforest-11987314-jango-responsive-multipurpose-html5-template/v1.0.0/theme/home-header-6.html",
+		"/Users/lazarostotsas/Downloads/portohtml-572/Documentation/Porto/assets/js/docs.js",
+		"/Users/lazarostotsas/Downloads/portohtml-572/HTML/php/newsletter-subscribe.php",
+		"/Applications/MAMP/htdocs/test/application/config/config.php",
+		"/Users/lazarostotsas/Downloads/philbertadmin/philbert_themeforest/html/fixed-width-light/form-wizard.html",
+		"/Users/lazarostotsas/Downloads/philbertadmin/philbert_themeforest/html/fixed-width-light/dist/js/form-wizard-data.js",
+		"/Users/lazarostotsas/Downloads/philbertadmin/philbert_themeforest/html/fixed-width-light/form-advanced.html",
+		"/Users/lazarostotsas/Downloads/philbertadmin/philbert_themeforest/html/fixed-width-light/dist/js/bootstrap-table-data.js",
+		"/Users/lazarostotsas/Downloads/philbertadmin/philbert_themeforest/html/fixed-width-light/index.html",
+		"/Users/lazarostotsas/Downloads/philbertadmin/philbert_themeforest/html/fixed-width-light/dist/js/dashboard-data.js",
+		"/Users/lazarostotsas/Downloads/philbertadmin/philbert_themeforest/html/fixed-width-light/dist/js/cropperjs-data.js",
+		"/Users/lazarostotsas/Desktop/constants.php",
+		"/Users/lazarostotsas/Downloads/material-bootstrap-wizard-v1.0.2/wizard-book-room.html",
+		"/Applications/MAMP/htdocs/ecobotix/index.php",
+		"/Applications/MAMP/htdocs/ecobotix/assets/booking_assets/js/material-bootstrap-wizard.js",
+		"/Users/lazarostotsas/Desktop/material-bootstrap-wizard.js",
+		"/Users/lazarostotsas/Desktop/brainstorming",
+		"/Users/lazarostotsas/Downloads/HoverEffectIdeas/css/set1.css",
+		"/Users/lazarostotsas/Desktop/home.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
